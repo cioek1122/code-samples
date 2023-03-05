@@ -2,8 +2,6 @@
 # Author: Korey Cioe
 # Date: January 25th, 2022
 #
-# Assignment 1, Intro to Data Strtures
-#
 # Note: you may NOT use the built-in statistical functions
 #       min, max, sum, et.   Instead, create your own code to
 #       calculate the answer.
